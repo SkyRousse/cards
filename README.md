@@ -4,7 +4,7 @@
 
 ## Description
 
-__Practice learning to use arrays in JS.__
+__More practice with arrays and loops in JS.__
 
 ## Setup/Installation Requirements
 
